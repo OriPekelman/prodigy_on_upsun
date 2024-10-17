@@ -1,0 +1,12 @@
+{
+    "db": "postgresql",
+    "db_settings": {
+        "postgresql": {
+          "host": "postgresql.internal",
+          "dbname": "main",
+          "user": "main",
+          "password": "main",
+          "port": 5432
+        }
+      }
+}
